@@ -16,7 +16,7 @@ MIN_POSITION_SIZE = 10.0        # Minimum position size in USDT
 STARTING_BALANCE = 1000.0       # Initial “fake” balance (SIMULATION)
 FUTURES_FEE = 0.00045           # 0.045% futures fee
 MARGIN_FEE = 0.00075            # 0.075% margin fee
-MAX_TRADE_DURATION = 1800       # Maximum holding time (1 hour)
+MAX_TRADE_DURATION = 1800       # Maximum holding time (30 min)
 
 API_KEY = os.getenv("API_KEY")
 API_SECRET = os.getenv("API_SECRET")
