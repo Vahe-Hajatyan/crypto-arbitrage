@@ -321,9 +321,3 @@ finally:
     conn.close()
     print("The database connection was closed.")
 
-
-"""inch petqa anenq
-1. hima es filter em anum ev mena 9 coin em tuyl talis ashxatacnel karanq toxenq saxi vra ani bayc liquidity hashvenq vor slippage ch@ lini
-2. orderner@ idealakan chen ashxatum chene kara petqa binance-ov order anenq vor tenanq vonca ashxatum hima da fake-a
-3. code@ refactoring petqa anenq ev normal structure sarqenq
-"""
